@@ -669,7 +669,7 @@ footer li a i {
   font-size: 19px;
 }
 
-footer ul li  {
+footer ul li {
   margin-top: .8em;
 }
 
@@ -694,7 +694,7 @@ footer ul li  {
   font-size: 15px;
 }
 
-.boxi2 ul li a:hover{
+.boxi2 ul li a:hover {
   color: var(--secondary-color);
 }
 
@@ -709,7 +709,7 @@ footer ul li  {
   color: #fff;
   width: 30px;
   padding: 6px;
-  border-radius: 7px;  
+  border-radius: 7px;
 }
 
 .boxi3 ul li a .fa-twitter {
@@ -717,21 +717,23 @@ footer ul li  {
   color: #fff;
   width: 30px;
   padding: 6px;
-  border-radius: 7px; 
+  border-radius: 7px;
 }
+
 .boxi3 ul li a .fa-instagram {
   background: #c7366d;
   color: #fff;
   width: 30px;
   padding: 6px;
-  border-radius: 7px; 
+  border-radius: 7px;
 }
+
 .boxi3 ul li a .fa-youtube {
   background: #bb1500;
   color: #fff;
   width: 35px;
   padding: 6px;
-  border-radius: 7px; 
+  border-radius: 7px;
 }
 
 
@@ -748,6 +750,11 @@ footer ul li  {
     display: flex;
     width: 100%;
     margin-top: 3%;
+  }
+
+  .heroSection p {
+    margin-top: -1.3rem;
+    width: 500px;
   }
 
   .heroSection h1 {
@@ -845,7 +852,7 @@ footer ul li  {
     margin-bottom: 0;
   }
 
-  footer > div {
+  footer>div {
     width: 300px;
     margin-right: 1em;
   }
