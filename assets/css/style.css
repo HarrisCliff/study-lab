@@ -324,7 +324,7 @@ img {
 }
 
 .categories .box3 {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/svg/photo.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/banner.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -336,13 +336,13 @@ img {
 }
 
 .categories .box5 {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url('../images/svg/videography.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url('../images/about2.jpg');
   background-size: cover;
   background-position: center;
 }
 
 .categories .box6 {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/svg/insurance.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/work-3.jpg');
   background-size: cover;
   background-position: center;
 }
