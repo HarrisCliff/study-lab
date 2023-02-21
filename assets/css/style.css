@@ -263,7 +263,7 @@ img {
 }
 
 .heroSection p {
-  margin-top: -1.5em;
+  margin-top:;
   color: var(--light-color);
   font-size: 18px;
   padding-bottom: .6rem;
@@ -479,6 +479,7 @@ img {
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  margin-top: 2rem;
 }
 
 .info .one {
@@ -645,7 +646,6 @@ img {
 /*----------------------- FOOTER -------------------------*/
 
 footer {
-  height: 65vh;
   background: var(--very-dark);
   display: flex;
   justify-content: center;
